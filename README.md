@@ -11,6 +11,7 @@ To get a pretty version of this document, run
 # License
 
 See LICENSE file.
+An amazing project
 
 # Authors
 
